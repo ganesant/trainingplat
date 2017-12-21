@@ -1,2 +1,2 @@
 # trainingplat
-training platform
+print('Hello World')
